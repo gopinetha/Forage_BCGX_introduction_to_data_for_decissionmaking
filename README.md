@@ -1,8 +1,11 @@
 # Forage
-My Projects regarding data Analytics
+
+#  BCGX INTRODUCTION TO DATA FOR DECISSIONMAKING
+
+This Projects regarding data Analytics
 
 
-TASK 1:
+# TASK 1:
 
 This is a simple task creating a pivot table using the specified columns 
 In the pivot table fields use:
@@ -15,7 +18,7 @@ Email marketing is the best marketing stratagy for getting more customers.
 New customers are attracted more.
 
 
-TASK 2:
+# TASK 2:
 
 
 This task is basically creating few visualizations for the same pivot table that we created in the previous task.
@@ -37,6 +40,9 @@ Finally add a good recomondation and you are good to submit.
 
 
 Here are some recomondations:
+
+# Analysis Report:
+
 1. New vs. Existing Customers
 
 Focus on Retention First: Acquiring new customers is usually 5–7x more expensive than retaining existing ones. Build loyalty programs, personalized offers, and post-purchase engagement to maximize lifetime value (LTV).
